@@ -1,5 +1,5 @@
 <div>
-  <img src="assets/banner.png" alt="msarimhassan"/>
+  <img src="assets/banner.png" alt="zeeshanhaider"/>
 </div>
 
 ---
@@ -28,16 +28,16 @@
 - Published npm package:
   - [react-fetch-intercept](https://www.npmjs.com/package/react-fetch-interceptor)
 
- <img src="assets/separate.jpg" alt="msarimhassan"/>
+ <img src="assets/separate.jpg" alt="zeeshanhaider/>
 
 <div style='display:flex;margin-top:20px'>
 
-<a href="https://www.linkedin.com/in/msarimhassan/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Sarim%20Hassan-blue?logo=linkedin&logoColor=blue&color=blue" />
+<a href="https://www.linkedin.com/in/zeeshan-hayder/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Zeeshan%20Haider-blue?logo=linkedin&logoColor=blue&color=blue" />
 </a>
 
-<a href="mailto:msarimdev@gmail.com.com" target="_blank" rel="noopener noreferrer" style='margin-left:10px'>
-  <img src="https://img.shields.io/badge/Gmail-Sarim%20Hassan-red?logo=gmail&logoColor=red&color=red" />
+<a href="mailto:zeeshan9402529@gmail.com" target="_blank" rel="noopener noreferrer" style='margin-left:10px'>
+  <img src="https://img.shields.io/badge/Gmail-Zeeshan%20Haider-red?logo=gmail&logoColor=red&color=red" />
 </a>
 
 <div>
