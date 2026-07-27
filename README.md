@@ -1,43 +1,65 @@
-<div>
-  <img src="assets/banner.png" alt="zeeshanhaider"/>
+<div align="center">
+
+# Zeeshan Haider
+
+**Full-Stack Engineer · Backend, Systems & AI**
+
+Backend-leaning engineer with 3+ years building production systems: event-driven
+architectures, LLM-powered automation, payment infrastructure, and multi-tenant
+SaaS backends. Currently extending that foundation into Python and AI.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-full-stack-beryl-beta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-hayder/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://portfolio-full-stack-beryl-beta.vercel.app/resume.pdf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zeeshan9402529@gmail.com)
+
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Zee-shanHaider&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
+### Currently
 
-### ⚡️ Here is a bit about me
-- JavaScript and TypeScript developer with 2 years of experience
-  - Developed multiple types of projects including CMS and e-commerce
-  - Specializing in frameworks and libraries including:
-    - React
-    - Next.js
-    - Node.js
-    - Express
-    - NestJS
-    - React Native
-- Current position: Software Engineer at The Hexaa
-- Experienced in deployment and deployed multiple projects using:
-  - AWS ECS
-  - Digital Ocean
-  - CI/CD with Bitbucket Pipelines and GitHub Actions
-- Containerized projects using Docker
-- Write test cases using:
-  - Jest
-  - React Testing Library
-- Published npm package:
-  - [react-fetch-intercept](https://www.npmjs.com/package/react-fetch-interceptor)
+Building automation systems that use LLMs for document extraction, confidence-scored
+auditing, and natural-language querying over structured data. Extending that same
+engineering foundation into Python, working through
+[`python`](https://github.com/Zee-shanHaider/python) — core language fundamentals
+building toward AI/ML tooling (NumPy, Pandas).
 
- <img src="assets/separate.jpg" alt="zeeshanhaider/>
+<br/>
 
-<div style='display:flex;margin-top:20px'>
+### Engineering stack
 
-<a href="https://www.linkedin.com/in/zeeshan-hayder/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Zeeshan%20Haider-blue?logo=linkedin&logoColor=blue&color=blue" />
-</a>
+**Languages** — TypeScript · JavaScript (ES2022+) · Python · SQL
 
-<a href="mailto:zeeshan9402529@gmail.com" target="_blank" rel="noopener noreferrer" style='margin-left:10px'>
-  <img src="https://img.shields.io/badge/Gmail-Zeeshan%20Haider-red?logo=gmail&logoColor=red&color=red" />
-</a>
+**Backend** — NestJS · Node.js · Express.js · REST API design · WebSockets · Event-driven architecture · Microservices
 
-<div>
+**Frontend** — Next.js (App Router) · React · Angular · Tailwind CSS
+
+**AI & LLM** — Gemini API · OpenAI API · LLM integration · Prompt engineering · OCR pipelines · Natural-language-to-query
+
+**Data** — PostgreSQL · MySQL · MongoDB · TypeORM · Prisma
+
+**Cloud & DevOps** — AWS · GCP (Pub/Sub) · Azure · Docker · GitHub Actions · CI/CD
+
+**Systems** — JWT/OAuth2/SSO · Multi-tenant architecture · Background job processing (Redis, BullMQ) · Stripe billing & webhooks
+
+<br/>
+
+### What I work on
+
+Event-driven backend systems that decouple ingestion, processing, and downstream sync.<br/>
+LLM-powered automation — extraction, confidence scoring, prompt-driven edits, natural-language querying.<br/>
+Payment and billing systems — subscriptions, usage-based pricing, webhook handling.<br/>
+Multi-tenant SaaS architecture — role-based access, signed URLs, tenant isolation.<br/>
+Authentication systems — JWT, OAuth2, SSO with proper token refresh.<br/>
+Database design and query optimization.<br/>
+Cloud deployment and CI/CD pipelines.
+
+<br/>
+
+### Engineering approach
+
+Decouple pipeline stages instead of one monolithic flow — each stage scales and fails independently.<br/>
+Treat LLM output as unverified until it's scored and reviewed, not as ground truth.<br/>
+Optimize for the query patterns that actually run in production, not the theoretical schema.<br/>
+When the cost of an error is real money, a manual threshold beats blind automation.
