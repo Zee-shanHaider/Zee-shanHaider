@@ -1,65 +1,40 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D2FF&height=160&section=header&text=Zeeshan%20Haider&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%C2%B7%20TypeScript%20%C2%B7%20LLM%20Integrations&descAlignY=62&descColor=ffffffcc&descSize=15" width="100%"/>
+
 <div align="center">
 
-# Zeeshan Haider
-
-**Full-Stack Engineer · Backend, Systems & AI**
-
-Backend-leaning engineer with 3+ years building production systems: event-driven
-architectures, LLM-powered automation, payment infrastructure, and multi-tenant
-SaaS backends. Currently extending that foundation into Python and AI.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-full-stack-beryl-beta.vercel.app/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-haider-full-stack/)
+&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://portfolio-full-stack-beryl-beta.vercel.app/resume.pdf)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zeeshan9402529@gmail.com)
 
 </div>
 
 <br/>
 
-### Currently
+Three years of production TypeScript. I focus on backend event-driven architectures that decouple ingestion from processing, LLM pipelines with confidence scoring and prompt-driven interfaces, and payment systems built on Stripe. Most of my work has been in SaaS products that handle real money and real data, so correctness and how pieces connect matter more to me than moving fast.
 
-Building automation systems that use LLMs for document extraction, confidence-scored
-auditing, and natural-language querying over structured data. Extending that same
-engineering foundation into Python, working through
-[`python`](https://github.com/Zee-shanHaider/python) — core language fundamentals
-building toward AI/ML tooling (NumPy, Pandas).
+Currently writing Python daily working through [`python`](https://github.com/Zee-shanHaider/python) from core fundamentals toward NumPy, Pandas, and ML tooling.
 
 <br/>
 
-### Engineering stack
+<div align="center">
 
-**Languages** — TypeScript · JavaScript (ES2022+) · Python · SQL
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Backend** — NestJS · Node.js · Express.js · REST API design · WebSockets · Event-driven architecture · Microservices
-
-**Frontend** — Next.js (App Router) · React · Angular · Tailwind CSS
-
-**AI & LLM** — Gemini API · OpenAI API · LLM integration · Prompt engineering · OCR pipelines · Natural-language-to-query
-
-**Data** — PostgreSQL · MySQL · MongoDB · TypeORM · Prisma
-
-**Cloud & DevOps** — AWS · GCP (Pub/Sub) · Azure · Docker · GitHub Actions · CI/CD
-
-**Systems** — JWT/OAuth2/SSO · Multi-tenant architecture · Background job processing (Redis, BullMQ) · Stripe billing & webhooks
-
-<br/>
-
-### What I work on
-
-Event-driven backend systems that decouple ingestion, processing, and downstream sync.<br/>
-LLM-powered automation  extraction, confidence scoring, prompt-driven edits, natural-language querying.<br/>
-Payment and billing systems subscriptions, usage-based pricing, webhook handling.<br/>
-Multi-tenant SaaS architecture role-based access, signed URLs, tenant isolation.<br/>
-Authentication systems JWT, OAuth2, SSO with proper token refresh.<br/>
-Database design and query optimization.<br/>
-Cloud deployment and CI/CD pipelines.
+</div>
 
 <br/>
 
-### Engineering approach
-
-Decouple pipeline stages instead of one monolithic flow — each stage scales and fails independently.<br/>
-Treat LLM output as unverified until it's scored and reviewed, not as ground truth.<br/>
-Optimize for the query patterns that actually run in production, not the theoretical schema.<br/>
-When the cost of an error is real money, a manual threshold beats blind automation.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:6C63FF&height=120&section=footer" width="100%"/>
