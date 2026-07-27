@@ -9,7 +9,7 @@ architectures, LLM-powered automation, payment infrastructure, and multi-tenant
 SaaS backends. Currently extending that foundation into Python and AI.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-full-stack-beryl-beta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-hayder/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-haider-full-stack/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://portfolio-full-stack-beryl-beta.vercel.app/resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zeeshan9402529@gmail.com)
 
