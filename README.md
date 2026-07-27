@@ -48,10 +48,10 @@ building toward AI/ML tooling (NumPy, Pandas).
 ### What I work on
 
 Event-driven backend systems that decouple ingestion, processing, and downstream sync.<br/>
-LLM-powered automation — extraction, confidence scoring, prompt-driven edits, natural-language querying.<br/>
-Payment and billing systems — subscriptions, usage-based pricing, webhook handling.<br/>
-Multi-tenant SaaS architecture — role-based access, signed URLs, tenant isolation.<br/>
-Authentication systems — JWT, OAuth2, SSO with proper token refresh.<br/>
+LLM-powered automation  extraction, confidence scoring, prompt-driven edits, natural-language querying.<br/>
+Payment and billing systems subscriptions, usage-based pricing, webhook handling.<br/>
+Multi-tenant SaaS architecture role-based access, signed URLs, tenant isolation.<br/>
+Authentication systems JWT, OAuth2, SSO with proper token refresh.<br/>
 Database design and query optimization.<br/>
 Cloud deployment and CI/CD pipelines.
 
